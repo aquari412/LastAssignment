@@ -1,5 +1,6 @@
 # LastAssignment
 ToDoApp→src→ToDoApp.java
+
 1.ロジックとデータの一体化:
 
  タスクデータ (Task クラス) が状態と振る舞いを自己完結しています。
